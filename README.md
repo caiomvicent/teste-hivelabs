@@ -1,4 +1,4 @@
-## Requisitos para rodar a Api
+## Requisitos para rodar a API
 
 -  Servidor MySQL instalado;
 
