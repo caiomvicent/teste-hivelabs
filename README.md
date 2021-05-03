@@ -4,9 +4,9 @@
 
 -  Criar um database local;
 
--  Dentro da pasta **\teste-hive-labs**, no terminal, digitar o comando `npm install`
+-  Dentro da pasta **\teste-hivelabs**, no terminal, digitar o comando `npm install`
 
--  Configurar um arquivo **.env** na raiz **\teste-hive-labs** com as informações presentes no banco de dados, e a porta onde a API irá rodar;
+-  Configurar um arquivo **.env** na raiz **\teste-hivelabs** com as informações presentes no banco de dados, e a porta onde a API irá rodar;
      - Exemplo:
 					
 					DB_HOST=localhost
@@ -16,6 +16,6 @@
          	
 					PORT=8080
 
-- Na pasta **\teste-hive-labs**, digitar o comando `npm start` no terminal para iniciar a aplicação.
+- Na pasta **\teste-hivelabs**, digitar o comando `npm start` no terminal para iniciar a aplicação.
 
 - Consultar a documentação da API em: https://documenter.getpostman.com/view/12209055/TzRLmAor
